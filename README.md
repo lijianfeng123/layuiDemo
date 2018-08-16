@@ -11,7 +11,5 @@ LAU的一些基本特性：
 ## 当前版本
 v1.0.0
 
-## 相关链接
-[预览](http://lau.revoke.cc/)
-[QQ群](//shang.qq.com/wpa/qunwpa?idkey=86c09b8cb6c4847173b5641d9c8b2035a6018e96e0c262de55a3a5f6779b9388)
+
 
